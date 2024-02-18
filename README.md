@@ -1,0 +1,1 @@
+this web static for airbnb website
